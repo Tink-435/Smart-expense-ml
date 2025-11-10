@@ -22,3 +22,6 @@ Method : Idea
 TF-IDF : Assigns importance to words in transaction text 
 Logistic Regression : Predicts category probabilities 
 Isolation Forest : Flags statistical outliers 
+
+Dataset: [Personal Expense Classification Dataset](https://www.kaggle.com/datasets/sahideseker/personal-expense-classification-dataset)  
+(Source: Kaggle)
